@@ -83,6 +83,7 @@ Hammesh Patel	Backend
 ✔ Scalable & secure system
 ✔ Cross-industry adaptability
 🔗 Links
+🔗 GitHub Repo: https://github.com/mokshrpatel/HackXplorers
 🔗 LinkedIn Post: https://www.linkedin.com/posts/ravi-bhatt-456kb555_fintech-breach2025-anirveda-activity-7309263355347718146-DMPd
 📚 References
 Basel Committee on Banking Supervision (2020)
